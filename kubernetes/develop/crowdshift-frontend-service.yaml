@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: crowdshift-frontend
+  labels:
+    app: crowdshift
+    tier: frontend
+    environment: development
+spec:
+  selector:
+    app: crowdshift
+    tier: frontend
+    environment: development
+  ports:
+    - name: http
+      port: 80
+      targetPort: 80
+      protocol: TCP

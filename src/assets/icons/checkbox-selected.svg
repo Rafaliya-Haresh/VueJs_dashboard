@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <rect id="checkboxselected-a" width="15" height="15" rx="2"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="checkboxselected-b" fill="#fff">
+      <use xlink:href="#checkboxselected-a"/>
+    </mask>
+    <use fill="#004B8D" xlink:href="#checkboxselected-a"/>
+    <g fill="#5624BB" fill-rule="nonzero" mask="url(#checkboxselected-b)">
+      <rect width="15" height="15"/>
+    </g>
+    <path fill="#FFF" fill-rule="nonzero" d="M5.61896259,7.08009431 L10.5023578,7.08009431 C11.0331761,7.08009431 11.4634895,7.51040764 11.4634895,8.04122603 C11.4634895,8.57204443 11.0331761,9.00235776 10.5023578,9.00235776 L4.89598756,9.00235776 C4.80801841,9.02766711 4.71507393,9.04122603 4.61896259,9.04122603 C4.06667784,9.04122603 3.61896259,8.59351078 3.61896259,8.04122603 L3.61896259,5.04122603 C3.61896259,4.48894128 4.06667784,4.04122603 4.61896259,4.04122603 C5.17124734,4.04122603 5.61896259,4.48894128 5.61896259,5.04122603 L5.61896259,7.08009431 Z" mask="url(#checkboxselected-b)" transform="rotate(-45 7.541 6.541)"/>
+  </g>
+</svg>

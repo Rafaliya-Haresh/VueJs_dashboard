@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="notice-messages" transform="translate(-157.000000, -551.000000)">
+            <g id="success-message-copy-2" transform="translate(141.000000, 535.000000)">
+                <g id="icon" transform="translate(16.000000, 16.000000)">
+                    <circle id="Oval" fill="#FFFFFF" cx="8" cy="8" r="8"></circle>
+                    <path d="M6.59823895,9.7826978 L11.1539624,5.14768352 C11.3475052,4.95077216 11.6613001,4.95077216 11.8548429,5.14768352 C12.0483857,5.34459488 12.0483857,5.66385128 11.8548429,5.86076264 L6.94867921,10.8523165 C6.7551364,11.0492278 6.4413415,11.0492278 6.24779869,10.8523165 L4.14515711,8.71307912 C3.9516143,8.51616776 3.9516143,8.19691136 4.14515711,8 C4.33869992,7.80308864 4.65249482,7.80308864 4.84603764,8 L6.59823895,9.7826978 Z" id="Path" fill="#3BB5B5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

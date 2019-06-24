@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="91px" viewBox="0 0 11 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" fill-rule="nonzero">
+            <g id="RedLIne" transform="translate(5.000000, 13.000000)" fill="#D45067">
+                <rect id="Rectangle-path" x="0" y="0" width="1" height="65"></rect>
+            </g>
+            <g id="MapfFieldErrorIcon">
+                <circle id="Oval" fill="#D45067" cx="5.5" cy="5.5" r="5.5"></circle>
+                <path d="M5.014,4.106 L5.014,3 L6.008,3 L6.008,4.106 L5.742,6.542 L5.28,6.542 L5.014,4.106 Z M5,6.99 L6.022,6.99 L6.022,8.005 L5,8.005 L5,6.99 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+            <g id="MapfFieldErrorIcon" transform="translate(0.000000, 80.000000)">
+                <circle id="Oval" fill="#D45067" cx="5.5" cy="5.5" r="5.5"></circle>
+                <path d="M5.014,4.106 L5.014,3 L6.008,3 L6.008,4.106 L5.742,6.542 L5.28,6.542 L5.014,4.106 Z M5,6.99 L6.022,6.99 L6.022,8.005 L5,8.005 L5,6.99 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

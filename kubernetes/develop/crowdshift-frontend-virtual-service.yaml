@@ -1,0 +1,19 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: crowdshift-frontend
+  labels:
+    app: crowdshift
+    tier: frontend
+    environment: development
+spec:
+  hosts:
+    - develop.crowdshift.com
+  gateways:
+    - crowdshift-frontend
+  http:
+    - route:
+        - destination:
+            port:
+              number: 80
+            host: crowdshift-frontend
